@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BackgroundTask.Pra.CT.props" />
+</Project>
