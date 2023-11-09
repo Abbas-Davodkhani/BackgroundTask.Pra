@@ -9,6 +9,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CancellationToken", "Cancel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundTask.Pra.CT", "BackgroundTask.Pra.CT\BackgroundTask.Pra.CT.csproj", "{F9B75EB1-C45C-40F4-8DCB-C30E294B0B2C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Timer", "Timer", "{D501C55B-3435-4EBB-9B1B-28DEF6A42C23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroTimer", "IntroTimer\IntroTimer.csproj", "{B594A8A1-3B3A-4E14-8F32-79E187AD527B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,10 @@ Global
 		{F9B75EB1-C45C-40F4-8DCB-C30E294B0B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9B75EB1-C45C-40F4-8DCB-C30E294B0B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9B75EB1-C45C-40F4-8DCB-C30E294B0B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B594A8A1-3B3A-4E14-8F32-79E187AD527B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B594A8A1-3B3A-4E14-8F32-79E187AD527B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B594A8A1-3B3A-4E14-8F32-79E187AD527B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B594A8A1-3B3A-4E14-8F32-79E187AD527B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +34,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{BCB41441-A0F8-4D52-AF0C-1B9B96D9E5B6} = {DE1D5738-5E6D-4922-A8B2-58A1B024CF9F}
 		{F9B75EB1-C45C-40F4-8DCB-C30E294B0B2C} = {BCB41441-A0F8-4D52-AF0C-1B9B96D9E5B6}
+		{D501C55B-3435-4EBB-9B1B-28DEF6A42C23} = {DE1D5738-5E6D-4922-A8B2-58A1B024CF9F}
+		{B594A8A1-3B3A-4E14-8F32-79E187AD527B} = {D501C55B-3435-4EBB-9B1B-28DEF6A42C23}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9015D5F2-312F-4A13-BBDF-6C291F31C941}
