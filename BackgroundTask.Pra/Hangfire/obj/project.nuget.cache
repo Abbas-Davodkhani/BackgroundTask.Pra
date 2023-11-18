@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bHyW1rqO+XwnufK+P4sKz/miRW9990LjIX25z6ZrAEhuy5DLasI+ROogFPGv/pFq/0MOamZ5xBDVbI80f//e1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a.davoodkhani\\Desktop\\BackgroundTask.Pra\\BackgroundTask.Pra\\Hangfire\\Hangfire.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.davoodkhani\\.nuget\\packages\\hangfire.core\\1.8.6\\hangfire.core.1.8.6.nupkg.sha512",
+    "C:\\Users\\a.davoodkhani\\.nuget\\packages\\hangfire.sqlserver\\1.8.6\\hangfire.sqlserver.1.8.6.nupkg.sha512",
+    "C:\\Users\\a.davoodkhani\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

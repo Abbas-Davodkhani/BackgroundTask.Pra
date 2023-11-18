@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a.davoodkhani\\Desktop\\ba\\BackgroundTask.Pra\\IntroTimer\\IntroTimer.csproj": {}
+    "C:\\Users\\a.davoodkhani\\Desktop\\BackgroundTask.Pra\\BackgroundTask.Pra\\IntroTimer\\IntroTimer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a.davoodkhani\\Desktop\\ba\\BackgroundTask.Pra\\IntroTimer\\IntroTimer.csproj": {
+    "C:\\Users\\a.davoodkhani\\Desktop\\BackgroundTask.Pra\\BackgroundTask.Pra\\IntroTimer\\IntroTimer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a.davoodkhani\\Desktop\\ba\\BackgroundTask.Pra\\IntroTimer\\IntroTimer.csproj",
+        "projectUniqueName": "C:\\Users\\a.davoodkhani\\Desktop\\BackgroundTask.Pra\\BackgroundTask.Pra\\IntroTimer\\IntroTimer.csproj",
         "projectName": "IntroTimer",
-        "projectPath": "C:\\Users\\a.davoodkhani\\Desktop\\ba\\BackgroundTask.Pra\\IntroTimer\\IntroTimer.csproj",
+        "projectPath": "C:\\Users\\a.davoodkhani\\Desktop\\BackgroundTask.Pra\\BackgroundTask.Pra\\IntroTimer\\IntroTimer.csproj",
         "packagesPath": "C:\\Users\\a.davoodkhani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a.davoodkhani\\Desktop\\ba\\BackgroundTask.Pra\\IntroTimer\\obj\\",
+        "outputPath": "C:\\Users\\a.davoodkhani\\Desktop\\BackgroundTask.Pra\\BackgroundTask.Pra\\IntroTimer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
